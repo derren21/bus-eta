@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/static/js/main.4441c41e.chunk.js",
-    "main.js.map": "/static/js/main.4441c41e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.fc786ab1.js",
-    "runtime-main.js.map": "/static/js/runtime-main.fc786ab1.js.map",
-    "static/js/2.cd2851b2.chunk.js": "/static/js/2.cd2851b2.chunk.js",
-    "static/js/2.cd2851b2.chunk.js.map": "/static/js/2.cd2851b2.chunk.js.map",
-    "static/js/3.3c832a08.chunk.js": "/static/js/3.3c832a08.chunk.js",
-    "static/js/3.3c832a08.chunk.js.map": "/static/js/3.3c832a08.chunk.js.map",
-    "index.html": "/index.html",
-    "service-worker.js": "/service-worker.js",
-    "service-worker.js.map": "/service-worker.js.map",
-    "static/css/main.9d5b29c0.chunk.css.map": "/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.cd2851b2.chunk.js.LICENSE.txt": "/static/js/2.cd2851b2.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/static/media/logo.103b5fa1.svg"
+    "main.css": "/bus-eta/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/bus-eta/static/js/main.a1730111.chunk.js",
+    "main.js.map": "/bus-eta/static/js/main.a1730111.chunk.js.map",
+    "runtime-main.js": "/bus-eta/static/js/runtime-main.6dcec0c0.js",
+    "runtime-main.js.map": "/bus-eta/static/js/runtime-main.6dcec0c0.js.map",
+    "static/js/2.cd2851b2.chunk.js": "/bus-eta/static/js/2.cd2851b2.chunk.js",
+    "static/js/2.cd2851b2.chunk.js.map": "/bus-eta/static/js/2.cd2851b2.chunk.js.map",
+    "static/js/3.3c832a08.chunk.js": "/bus-eta/static/js/3.3c832a08.chunk.js",
+    "static/js/3.3c832a08.chunk.js.map": "/bus-eta/static/js/3.3c832a08.chunk.js.map",
+    "index.html": "/bus-eta/index.html",
+    "service-worker.js": "/bus-eta/service-worker.js",
+    "service-worker.js.map": "/bus-eta/service-worker.js.map",
+    "static/css/main.9d5b29c0.chunk.css.map": "/bus-eta/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.cd2851b2.chunk.js.LICENSE.txt": "/bus-eta/static/js/2.cd2851b2.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/bus-eta/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fc786ab1.js",
+    "static/js/runtime-main.6dcec0c0.js",
     "static/js/2.cd2851b2.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.4441c41e.chunk.js"
+    "static/js/main.a1730111.chunk.js"
   ]
 }
